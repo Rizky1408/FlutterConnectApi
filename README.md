@@ -1,6 +1,12 @@
 # example_api
 
-A new Flutter project.
+Flutter Connect To API dengan metode POST.
+
+API_Example = https://reqres.in/
+
+<br>
+<img src="https://github.com/Rizky1408/FlutterConnectApi/blob/main/lib/demo1.png" width = "350">
+<img src="https://github.com/Rizky1408/FlutterConnectApi/blob/main/lib/demo2.png" width = "350">
 
 ## Getting Started
 
